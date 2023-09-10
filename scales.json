@@ -1,0 +1,1002 @@
+{
+  "2468a": {
+    "pitch": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+    ],
+    "name": [
+      "Whole",
+      "Auxiliary Augmented"
+    ]
+  },
+  "24689b": {
+    "pitch": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      9,
+      11
+    ],
+    "name": [
+      "Lydian Augmented"
+    ]
+  },
+  "13579b": {
+    "pitch": [
+      0,
+      1,
+      3,
+      5,
+      7,
+      9,
+      11
+    ],
+    "name": [
+      "Neapolitan Major",
+      "Kokilpriya"
+    ]
+  },
+  "234579a": {
+    "pitch": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Bebop Minor"
+    ]
+  },
+  "13579a": {
+    "pitch": [
+      0,
+      1,
+      3,
+      5,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Natakpriya"
+    ]
+  },
+  "13478a": {
+    "pitch": [
+      0,
+      1,
+      3,
+      4,
+      7,
+      8,
+      10
+    ],
+    "name": [
+      "Huzam"
+    ]
+  },
+  "24579ab": {
+    "pitch": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      9,
+      10,
+      11
+    ],
+    "name": [
+      "Bebop Dominant"
+    ]
+  },
+  "23579a": {
+    "pitch": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Dorian",
+      "Husseini",
+      "Kafi"
+    ]
+  },
+  "1578": {
+    "pitch": [
+      0,
+      1,
+      5,
+      7,
+      8
+    ],
+    "name": [
+      "Joshi-Kumoi",
+      "Kumoi-Joshi"
+    ]
+  },
+  "23478a": {
+    "pitch": [
+      0,
+      2,
+      3,
+      4,
+      7,
+      8,
+      10
+    ],
+    "name": [
+      "Saba",
+      "Sabah"
+    ]
+  },
+  "23579b": {
+    "pitch": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      9,
+      11
+    ],
+    "name": [
+      "Melodic Minor",
+      "Jazz Minor",
+      "Gauri Manohari"
+    ]
+  },
+  "134679a": {
+    "pitch": [
+      0,
+      1,
+      3,
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Blues Diminished",
+      "Auxiliary Diminished Blues",
+      "Half-Whole",
+      "Balinese"
+    ]
+  },
+  "1468ab": {
+    "pitch": [
+      0,
+      1,
+      4,
+      6,
+      8,
+      10,
+      11
+    ],
+    "name": [
+      "Enigmatic (Ascending)",
+      "Verdi's Enigmatic (Ascending)"
+    ]
+  },
+  "156a": {
+    "pitch": [
+      0,
+      1,
+      5,
+      6,
+      10
+    ],
+    "name": [
+      "Joshi-Iwato",
+      "Iwato-Joshi"
+    ]
+  },
+  "257a": {
+    "pitch": [
+      0,
+      2,
+      5,
+      7,
+      10
+    ],
+    "name": [
+      "Neutral Pentatonic",
+      "Egyptian",
+      "Shang",
+      "Standard Slendro",
+      "Slendro Average"
+    ]
+  },
+  "13478ab": {
+    "pitch": [
+      0,
+      1,
+      3,
+      4,
+      7,
+      8,
+      10,
+      11
+    ],
+    "name": [
+      "Neveseri"
+    ]
+  },
+  "358a": {
+    "pitch": [
+      0,
+      3,
+      5,
+      8,
+      10
+    ],
+    "name": [
+      "Jue",
+      "Rock Pentatonic"
+    ]
+  },
+  "235689b": {
+    "pitch": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      11
+    ],
+    "name": [
+      "Whole-Half",
+      "W-H",
+      "Diminished",
+      "Dim Whole"
+    ]
+  },
+  "14579b": {
+    "pitch": [
+      0,
+      1,
+      4,
+      5,
+      7,
+      9,
+      11
+    ],
+    "name": [
+      "Suryakant"
+    ]
+  },
+  "14579a": {
+    "pitch": [
+      0,
+      1,
+      4,
+      5,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Hijaz",
+      "Chakravaak"
+    ]
+  },
+  "245789b": {
+    "pitch": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      11
+    ],
+    "name": [
+      "Bebop Major"
+    ]
+  },
+  "2469a": {
+    "pitch": [
+      0,
+      2,
+      4,
+      6,
+      9,
+      10
+    ],
+    "name": [
+      "Prometheus",
+      "Mystic"
+    ]
+  },
+  "24678b": {
+    "pitch": [
+      0,
+      2,
+      4,
+      6,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Lataangi"
+    ]
+  },
+  "24589b": {
+    "pitch": [
+      0,
+      2,
+      4,
+      5,
+      8,
+      9,
+      11
+    ],
+    "name": [
+      "Ionian Augmented"
+    ]
+  },
+  "13568a": {
+    "pitch": [
+      0,
+      1,
+      3,
+      5,
+      6,
+      8,
+      10
+    ],
+    "name": [
+      "Locrian"
+    ]
+  },
+  "23679a": {
+    "pitch": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Nikriz",
+      "Tunisian",
+      "Susinak",
+      "Hemvati",
+      "Mi Sheberach",
+      "Mi Shebberach",
+      "Misheberakh"
+    ]
+  },
+  "34579b": {
+    "pitch": [
+      0,
+      3,
+      4,
+      5,
+      7,
+      9,
+      11
+    ],
+    "name": [
+      "Huzam"
+    ]
+  },
+  "1469a": {
+    "pitch": [
+      0,
+      1,
+      4,
+      6,
+      9,
+      10
+    ],
+    "name": [
+      "Prometheus Neapolitan"
+    ]
+  },
+  "23679b": {
+    "pitch": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      9,
+      11
+    ],
+    "name": [
+      "Dharmaavati"
+    ]
+  },
+  "2479": {
+    "pitch": [
+      0,
+      2,
+      4,
+      7,
+      9
+    ],
+    "name": [
+      "Major Pentatonic",
+      "Diatonic",
+      "Gong",
+      "Mongolian",
+      "Sen-Ryo"
+    ]
+  },
+  "23578b": {
+    "pitch": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Harmonic Minor",
+      "Nahawand",
+      "Kirwani"
+    ]
+  },
+  "1458ab": {
+    "pitch": [
+      0,
+      1,
+      4,
+      5,
+      8,
+      10,
+      11
+    ],
+    "name": [
+      "Enigmatic (Descending)",
+      "Verdi's Enigmatic (Descending)"
+    ]
+  },
+  "23578a": {
+    "pitch": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      8,
+      10
+    ],
+    "name": [
+      "Natural Minor",
+      "Minor",
+      "Pure Minor",
+      "Aeolian",
+      "Bayati",
+      "Asavari"
+    ]
+  },
+  "157a": {
+    "pitch": [
+      0,
+      1,
+      5,
+      7,
+      10
+    ],
+    "name": [
+      "Sen-In",
+      "In-Sen"
+    ]
+  },
+  "24679a": {
+    "pitch": [
+      0,
+      2,
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Vachaspati"
+    ]
+  },
+  "24679b": {
+    "pitch": [
+      0,
+      2,
+      4,
+      6,
+      7,
+      9,
+      11
+    ],
+    "name": [
+      "Lydian",
+      "Kalyan"
+    ]
+  },
+  "24578a": {
+    "pitch": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      8,
+      10
+    ],
+    "name": [
+      "Charukeshi"
+    ]
+  },
+  "24578b": {
+    "pitch": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Suznak",
+      "Tabahaniotikos",
+      "Sarasaangi"
+    ]
+  },
+  "3478b": {
+    "pitch": [
+      0,
+      3,
+      4,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Augmented"
+    ]
+  },
+  "13678b": {
+    "pitch": [
+      0,
+      1,
+      3,
+      6,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Todi"
+    ]
+  },
+  "13468a": {
+    "pitch": [
+      0,
+      1,
+      3,
+      4,
+      6,
+      8,
+      10
+    ],
+    "name": [
+      "Altered",
+      "Altered Dominant",
+      "Diminished Whole-Tone",
+      "Dominant Whole-Tone"
+    ]
+  },
+  "23678a": {
+    "pitch": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      8,
+      10
+    ],
+    "name": [
+      "Hungarian Gypsy"
+    ]
+  },
+  "34578b": {
+    "pitch": [
+      0,
+      3,
+      4,
+      5,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Segah"
+    ]
+  },
+  "134568a": {
+    "pitch": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10
+    ],
+    "name": [
+      "Spanish 8 Tone"
+    ]
+  },
+  "23569a": {
+    "pitch": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      9,
+      10
+    ],
+    "name": [
+      "Bayati Shuri",
+      "Kartzigar"
+    ]
+  },
+  "457b": {
+    "pitch": [
+      0,
+      4,
+      5,
+      7,
+      11
+    ],
+    "name": [
+      "Joshi-Okinawa",
+      "Okinawa-Joshi"
+    ]
+  },
+  "23678b": {
+    "pitch": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Gypsy Minor",
+      "Hungarian Minor",
+      "Nawa Athar",
+      "Nihavent"
+    ]
+  },
+  "34679a": {
+    "pitch": [
+      0,
+      3,
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Hungarian Major"
+    ]
+  },
+  "14678b": {
+    "pitch": [
+      0,
+      1,
+      4,
+      6,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Pireaus",
+      "Poorvi"
+    ]
+  },
+  "14569a": {
+    "pitch": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "name": [
+      "Tsinganikos"
+    ]
+  },
+  "24579a": {
+    "pitch": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Mixolydian",
+      "Houseini",
+      "Khamaaj"
+    ]
+  },
+  "24579b": {
+    "pitch": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      9,
+      11
+    ],
+    "name": [
+      "Major",
+      "Ionian",
+      "Rast",
+      "Bilawal"
+    ]
+  },
+  "13578a": {
+    "pitch": [
+      0,
+      1,
+      3,
+      5,
+      7,
+      8,
+      10
+    ],
+    "name": [
+      "Phrygian",
+      "Kurd",
+      "Usak",
+      "Bhairavi",
+      "Sikah",
+      "Standard Pelog",
+      "Pelog Average"
+    ]
+  },
+  "13578b": {
+    "pitch": [
+      0,
+      1,
+      3,
+      5,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Neapolitan Minor"
+    ]
+  },
+  "23479": {
+    "pitch": [
+      0,
+      2,
+      3,
+      4,
+      7,
+      9
+    ],
+    "name": [
+      "Blues Major"
+    ]
+  },
+  "2579": {
+    "pitch": [
+      0,
+      2,
+      5,
+      7,
+      9
+    ],
+    "name": [
+      "Scottish Pentatonic",
+      "Zhi",
+      "Sen-Ritsu",
+      "Ritsu-Sen"
+    ]
+  },
+  "2578": {
+    "pitch": [
+      0,
+      2,
+      5,
+      7,
+      8
+    ],
+    "name": [
+      "Joshi-Kokin",
+      "Kokin-Joshi"
+    ]
+  },
+  "2379": {
+    "pitch": [
+      0,
+      2,
+      3,
+      7,
+      9
+    ],
+    "name": [
+      "Joshi-Akikaze",
+      "Akikaze-Joshi"
+    ]
+  },
+  "2378": {
+    "pitch": [
+      0,
+      2,
+      3,
+      7,
+      8
+    ],
+    "name": [
+      "Joshi-Hira",
+      "Hira-Joshi"
+    ]
+  },
+  "123456789ab": {
+    "pitch": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "name": [
+      "Chromatic"
+    ]
+  },
+  "3567a": {
+    "pitch": [
+      0,
+      3,
+      5,
+      6,
+      7,
+      10
+    ],
+    "name": [
+      "Blues Minor",
+      "Blues"
+    ]
+  },
+  "357a": {
+    "pitch": [
+      0,
+      3,
+      5,
+      7,
+      10
+    ],
+    "name": [
+      "Minor Pentatonic",
+      "Blues Pentatonic",
+      "Blues Pentatonic",
+      "Yu",
+      "Sen-Yo"
+    ]
+  },
+  "14578b": {
+    "pitch": [
+      0,
+      1,
+      4,
+      5,
+      7,
+      8,
+      11
+    ],
+    "name": [
+      "Hijaz Kar",
+      "Hijazkiar",
+      "Bhairav"
+    ]
+  },
+  "14578a": {
+    "pitch": [
+      0,
+      1,
+      4,
+      5,
+      7,
+      8,
+      10
+    ],
+    "name": [
+      "Hijaz",
+      "Bakulabharan"
+    ]
+  },
+  "235789b": {
+    "pitch": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      11
+    ],
+    "name": [
+      "Bebop Melodic Minor"
+    ]
+  },
+  "14679b": {
+    "pitch": [
+      0,
+      1,
+      4,
+      6,
+      7,
+      9,
+      11
+    ],
+    "name": [
+      "Marwa"
+    ]
+  },
+  "14679a": {
+    "pitch": [
+      0,
+      1,
+      4,
+      6,
+      7,
+      9,
+      10
+    ],
+    "name": [
+      "Rampriya"
+    ]
+  }
+}
