@@ -9,11 +9,15 @@ which represents every note as an offset from the primary.
 
 [chords.json](chords.json), 26 ones
 
-- dict key: unique chord id
-- dict value:
-  - `pitch` - notes in the chord, `[0..23]`, spanning two octaves
-  - `name` - human-readable names
-  - `abbr` - abbreviations, 1+
+```
+{
+  "chord UID" : {
+    "pitch": notes in the chord [0..23] spanning two octaves
+    "name" : ["name"]
+    "abbr" : ["abbreviation"]
+  }
+}
+```
 
 ## Scales
 
@@ -21,10 +25,13 @@ which represents every note as an offset from the primary.
 
 [scales-ext.json](scales-ext.json), 1490 ones
 
-- dict key: unique scale id
-- dict value:
-  - `pitch` - notes in the scale, `[0..11]`
-  - `name` - human-readable names, 1+
-
+```
+{
+  "scale UID" : {
+    "pitch": notes in the scale [0..11]
+    "name": ["name"]
+  }
+}
+```
 
 [1]: https://en.wikipedia.org/wiki/Pitch_class#Integer_notation
