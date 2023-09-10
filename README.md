@@ -12,7 +12,7 @@ which represents every note as an offset from the primary.
 - dict key: unique chord id
 - dict value:
   - `pitch` - notes in the chord, `[0..23]`, spanning two octaves
-  - `name` - human readable names, starting with the most popular
+  - `name` - human-readable names
   - `abbr` - abbreviations, 1+
 
 ## Scales
@@ -24,7 +24,7 @@ which represents every note as an offset from the primary.
 - dict key: unique scale id
 - dict value:
   - `pitch` - notes in the scale, `[0..11]`
-  - `name` - human-readable names, starting with the most popular
+  - `name` - human-readable names, 1+
 
 
 [1]: https://en.wikipedia.org/wiki/Pitch_class#Integer_notation

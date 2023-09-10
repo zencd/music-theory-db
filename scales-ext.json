@@ -13,7 +13,7 @@
   },
   "1461" : {
     "pitch" : [ 0, 2, 4, 5, 7, 8, 10 ],
-    "name" : [ "Stydian" ]
+    "name" : [ "Charukeshi", "Stydian" ]
   },
   "2791" : {
     "pitch" : [ 0, 1, 2, 5, 6, 7, 9, 11 ],
@@ -21,7 +21,7 @@
   },
   "1459" : {
     "pitch" : [ 0, 1, 4, 5, 7, 8, 10 ],
-    "name" : [ "Ionalian" ]
+    "name" : [ "Hijaz", "Bakulabharan", "Ionalian" ]
   },
   "2789" : {
     "pitch" : [ 0, 2, 5, 6, 7, 9, 11 ],
@@ -77,7 +77,7 @@
   },
   "1453" : {
     "pitch" : [ 0, 2, 3, 5, 7, 8, 10 ],
-    "name" : [ "Aeolian" ]
+    "name" : [ "Natural Minor", "Minor", "Pure Minor", "Aeolian", "Bayati", "Asavari" ]
   },
   "1211" : {
     "pitch" : [ 0, 1, 3, 4, 5, 7, 10 ],
@@ -345,7 +345,7 @@
   },
   "3411" : {
     "pitch" : [ 0, 1, 4, 6, 8, 10, 11 ],
-    "name" : [ "Ionathian" ]
+    "name" : [ "Enigmatic (Ascending)", "Verdi's Enigmatic (Ascending)", "Ionathian" ]
   },
   "2321" : {
     "pitch" : [ 0, 4, 8, 11 ],
@@ -501,7 +501,7 @@
   },
   "1485" : {
     "pitch" : [ 0, 2, 3, 6, 7, 8, 10 ],
-    "name" : [ "Tyrian" ]
+    "name" : [ "Hungarian Gypsy", "Tyrian" ]
   },
   "1001" : {
     "pitch" : [ 0, 3, 5, 6, 7, 8, 9 ],
@@ -617,7 +617,7 @@
   },
   "1257" : {
     "pitch" : [ 0, 3, 5, 6, 7, 10 ],
-    "name" : [ "Aeolyphimic" ]
+    "name" : [ "Blues Minor", "Blues", "Aeolyphimic" ]
   },
   "3435" : {
     "pitch" : [ 0, 1, 3, 5, 6, 8, 10, 11 ],
@@ -1053,7 +1053,7 @@
   },
   "3483" : {
     "pitch" : [ 0, 1, 3, 4, 7, 8, 10, 11 ],
-    "name" : [ "Mixotharyllic" ]
+    "name" : [ "Neveseri", "Mixotharyllic" ]
   },
   "2393" : {
     "pitch" : [ 0, 3, 4, 6, 8, 11 ],
@@ -1281,7 +1281,7 @@
   },
   "653" : {
     "pitch" : [ 0, 2, 3, 7, 9 ],
-    "name" : [ "Stathitonic" ]
+    "name" : [ "Joshi-Akikaze", "Akikaze-Joshi", "Stathitonic" ]
   },
   "411" : {
     "pitch" : [ 0, 1, 3, 4, 7, 8 ],
@@ -1333,7 +1333,7 @@
   },
   "419" : {
     "pitch" : [ 0, 1, 5, 7, 8 ],
-    "name" : [ "Ionacritonic" ]
+    "name" : [ "Joshi-Kumoi", "Kumoi-Joshi", "Ionacritonic" ]
   },
   "1099" : {
     "pitch" : [ 0, 1, 3, 6, 10 ],
@@ -1389,11 +1389,11 @@
   },
   "661" : {
     "pitch" : [ 0, 2, 4, 7, 9 ],
-    "name" : [ "Pentatonic" ]
+    "name" : [ "Major Pentatonic", "Diatonic", "Gong", "Mongolian", "Sen-Ryo", "Pentatonic" ]
   },
   "421" : {
     "pitch" : [ 0, 2, 5, 7, 8 ],
-    "name" : [ "Ionitonic" ]
+    "name" : [ "Joshi-Kokin", "Kokin-Joshi", "Ionitonic" ]
   },
   "663" : {
     "pitch" : [ 0, 1, 2, 4, 7, 9 ],
@@ -1437,7 +1437,7 @@
   },
   "669" : {
     "pitch" : [ 0, 2, 3, 4, 7, 9 ],
-    "name" : [ "Gycrimic" ]
+    "name" : [ "Blues Major", "Gycrimic" ]
   },
   "429" : {
     "pitch" : [ 0, 2, 3, 5, 7, 8 ],
@@ -1509,7 +1509,7 @@
   },
   "677" : {
     "pitch" : [ 0, 2, 5, 7, 9 ],
-    "name" : [ "Mynitonic" ]
+    "name" : [ "Scottish Pentatonic", "Zhi", "Sen-Ritsu", "Ritsu-Sen", "Mynitonic" ]
   },
   "435" : {
     "pitch" : [ 0, 1, 4, 5, 7, 8 ],
@@ -1869,11 +1869,11 @@
   },
   "1709" : {
     "pitch" : [ 0, 2, 3, 5, 7, 9, 10 ],
-    "name" : [ "Dorian" ]
+    "name" : [ "Dorian", "Husseini", "Kafi" ]
   },
   "1707" : {
     "pitch" : [ 0, 1, 3, 5, 7, 9, 10 ],
-    "name" : [ "Mixolythian" ]
+    "name" : [ "Natakpriya", "Mixolythian" ]
   },
   "1949" : {
     "pitch" : [ 0, 2, 3, 4, 7, 8, 9, 10 ],
@@ -1941,7 +1941,7 @@
   },
   "1717" : {
     "pitch" : [ 0, 2, 4, 5, 7, 9, 10 ],
-    "name" : [ "Mixolydian" ]
+    "name" : [ "Mixolydian", "Houseini", "Khamaaj" ]
   },
   "1959" : {
     "pitch" : [ 0, 1, 2, 5, 7, 8, 9, 10 ],
@@ -1957,7 +1957,7 @@
   },
   "1715" : {
     "pitch" : [ 0, 1, 4, 5, 7, 9, 10 ],
-    "name" : [ "Aeronian" ]
+    "name" : [ "Hijaz", "Chakravaak", "Aeronian" ]
   },
   "2803" : {
     "pitch" : [ 0, 1, 4, 5, 6, 7, 9, 11 ],
@@ -2017,7 +2017,7 @@
   },
   "1725" : {
     "pitch" : [ 0, 2, 3, 4, 5, 7, 9, 10 ],
-    "name" : [ "Mixodyllic" ]
+    "name" : [ "Bebop Minor", "Mixodyllic" ]
   },
   "1967" : {
     "pitch" : [ 0, 1, 2, 3, 5, 7, 8, 9, 10 ],
@@ -2117,7 +2117,7 @@
   },
   "1741" : {
     "pitch" : [ 0, 2, 3, 6, 7, 9, 10 ],
-    "name" : [ "Katycrian" ]
+    "name" : [ "Nikriz", "Tunisian", "Susinak", "Hemvati", "Mi Sheberach", "Mi Shebberach", "Misheberakh", "Katycrian" ]
   },
   "1983" : {
     "pitch" : [ 0, 1, 2, 3, 4, 5, 7, 8, 9, 10 ],
@@ -2145,7 +2145,7 @@
   },
   "1749" : {
     "pitch" : [ 0, 2, 4, 6, 7, 9, 10 ],
-    "name" : [ "Lythian" ]
+    "name" : [ "Vachaspati", "Lythian" ]
   },
   "2837" : {
     "pitch" : [ 0, 2, 4, 8, 9, 11 ],
@@ -2161,7 +2161,7 @@
   },
   "1747" : {
     "pitch" : [ 0, 1, 4, 6, 7, 9, 10 ],
-    "name" : [ "Epalian" ]
+    "name" : [ "Rampriya", "Epalian" ]
   },
   "2835" : {
     "pitch" : [ 0, 1, 4, 8, 9, 11 ],
@@ -2193,7 +2193,7 @@
   },
   "1755" : {
     "pitch" : [ 0, 1, 3, 4, 6, 7, 9, 10 ],
-    "name" : [ "MinorDimin." ]
+    "name" : [ "Blues Diminished", "Auxiliary Diminished Blues", "Half-Whole", "Balinese", "MinorDimin." ]
   },
   "2601" : {
     "pitch" : [ 0, 3, 5, 9, 11 ],
@@ -2205,7 +2205,7 @@
   },
   "1753" : {
     "pitch" : [ 0, 3, 4, 6, 7, 9, 10 ],
-    "name" : [ "Mycrian" ]
+    "name" : [ "Hungarian Major", "Mycrian" ]
   },
   "1511" : {
     "pitch" : [ 0, 1, 2, 5, 6, 7, 8, 10 ],
@@ -2481,7 +2481,7 @@
   },
   "2869" : {
     "pitch" : [ 0, 2, 4, 5, 8, 9, 11 ],
-    "name" : [ "Phrothian" ]
+    "name" : [ "Ionian Augmented", "Phrothian" ]
   },
   "3955" : {
     "pitch" : [ 0, 1, 4, 5, 6, 8, 9, 10, 11 ],
@@ -2781,7 +2781,7 @@
   },
   "1321" : {
     "pitch" : [ 0, 3, 5, 8, 10 ],
-    "name" : [ "Epathitonic" ]
+    "name" : [ "Jue", "Rock Pentatonic", "Epathitonic" ]
   },
   "2651" : {
     "pitch" : [ 0, 1, 3, 4, 6, 9, 11 ],
@@ -3129,7 +3129,7 @@
   },
   "3765" : {
     "pitch" : [ 0, 2, 4, 5, 7, 9, 10, 11 ],
-    "name" : [ "Aerycryllic" ]
+    "name" : [ "Bebop Dominant", "Aerycryllic" ]
   },
   "925" : {
     "pitch" : [ 0, 2, 3, 4, 7, 8, 9 ],
@@ -3349,7 +3349,7 @@
   },
   "1371" : {
     "pitch" : [ 0, 1, 3, 4, 6, 8, 10 ],
-    "name" : [ "Ionadian" ]
+    "name" : [ "Altered", "Altered Dominant", "Diminished Whole-Tone", "Dominant Whole-Tone", "Ionadian" ]
   },
   "1129" : {
     "pitch" : [ 0, 3, 5, 6, 10 ],
@@ -3393,7 +3393,7 @@
   },
   "2457" : {
     "pitch" : [ 0, 3, 4, 7, 8, 11 ],
-    "name" : [ "Ionythimic" ]
+    "name" : [ "Augmented", "Ionythimic" ]
   },
   "2699" : {
     "pitch" : [ 0, 1, 3, 7, 9, 11 ],
@@ -3429,11 +3429,11 @@
   },
   "1123" : {
     "pitch" : [ 0, 1, 5, 6, 10 ],
-    "name" : [ "Lanitonic" ]
+    "name" : [ "Joshi-Iwato", "Iwato-Joshi", "Lanitonic" ]
   },
   "1365" : {
     "pitch" : [ 0, 2, 4, 6, 8, 10 ],
-    "name" : [ "WholeTone" ]
+    "name" : [ "Whole", "Auxiliary Augmented", "WholeTone" ]
   },
   "941" : {
     "pitch" : [ 0, 2, 3, 5, 7, 8, 9 ],
@@ -3589,7 +3589,7 @@
   },
   "2225" : {
     "pitch" : [ 0, 4, 5, 7, 11 ],
-    "name" : [ "Gonitonic" ]
+    "name" : [ "Joshi-Okinawa", "Okinawa-Joshi", "Gonitonic" ]
   },
   "2467" : {
     "pitch" : [ 0, 1, 5, 7, 8, 11 ],
@@ -3681,7 +3681,7 @@
   },
   "2485" : {
     "pitch" : [ 0, 2, 4, 5, 7, 8, 11 ],
-    "name" : [ "Aerorian" ]
+    "name" : [ "Suznak", "Tabahaniotikos", "Sarasaangi", "Aerorian" ]
   },
   "2001" : {
     "pitch" : [ 0, 4, 6, 7, 8, 9, 10 ],
@@ -3697,7 +3697,7 @@
   },
   "2483" : {
     "pitch" : [ 0, 1, 4, 5, 7, 8, 11 ],
-    "name" : [ "Aerynian" ]
+    "name" : [ "Hijaz Kar", "Hijazkiar", "Bhairav", "Aerynian" ]
   },
   "1393" : {
     "pitch" : [ 0, 4, 5, 6, 8, 10 ],
@@ -3761,7 +3761,7 @@
   },
   "2477" : {
     "pitch" : [ 0, 2, 3, 5, 7, 8, 11 ],
-    "name" : [ "Mydian" ]
+    "name" : [ "Harmonic Minor", "Nahawand", "Kirwani", "Mydian" ]
   },
   "2235" : {
     "pitch" : [ 0, 1, 3, 4, 5, 7, 11 ],
@@ -3793,7 +3793,7 @@
   },
   "2475" : {
     "pitch" : [ 0, 1, 3, 5, 7, 8, 11 ],
-    "name" : [ "Aerylian" ]
+    "name" : [ "Neapolitan Minor", "Aerylian" ]
   },
   "965" : {
     "pitch" : [ 0, 2, 6, 7, 8, 9 ],
@@ -3893,7 +3893,7 @@
   },
   "2489" : {
     "pitch" : [ 0, 3, 4, 5, 7, 8, 11 ],
-    "name" : [ "Syrian" ]
+    "name" : [ "Segah", "Syrian" ]
   },
   "2005" : {
     "pitch" : [ 0, 2, 4, 6, 7, 8, 9, 10 ],
@@ -4105,7 +4105,7 @@
   },
   "1187" : {
     "pitch" : [ 0, 1, 5, 7, 10 ],
-    "name" : [ "Thalitonic" ]
+    "name" : [ "Sen-In", "In-Sen", "Thalitonic" ]
   },
   "3365" : {
     "pitch" : [ 0, 2, 5, 8, 10, 11 ],
@@ -4261,7 +4261,7 @@
   },
   "1193" : {
     "pitch" : [ 0, 3, 5, 7, 10 ],
-    "name" : [ "Rocritonic" ]
+    "name" : [ "Minor Pentatonic", "Blues Pentatonic", "Yu", "Sen-Yo", "Rocritonic" ]
   },
   "3371" : {
     "pitch" : [ 0, 1, 3, 5, 8, 10, 11 ],
@@ -4301,7 +4301,7 @@
   },
   "1189" : {
     "pitch" : [ 0, 2, 5, 7, 10 ],
-    "name" : [ "Thaptitonic" ]
+    "name" : [ "Neutral Pentatonic", "Egyptian", "Shang", "Standard Slendro", "Slendro Average", "Thaptitonic" ]
   },
   "3367" : {
     "pitch" : [ 0, 1, 2, 5, 8, 10, 11 ],
@@ -4369,7 +4369,7 @@
   },
   "3379" : {
     "pitch" : [ 0, 1, 4, 5, 8, 10, 11 ],
-    "name" : [ "Sothian" ]
+    "name" : [ "Enigmatic (Descending)", "Verdi's Enigmatic (Descending)", "Sothian" ]
   },
   "2289" : {
     "pitch" : [ 0, 4, 5, 6, 7, 11 ],
@@ -4997,7 +4997,7 @@
   },
   "397" : {
     "pitch" : [ 0, 2, 3, 7, 8 ],
-    "name" : [ "Epogitonic" ]
+    "name" : [ "Joshi-Hira", "Hira-Joshi", "Epogitonic" ]
   },
   "399" : {
     "pitch" : [ 0, 1, 2, 3, 7, 8 ],
@@ -5033,7 +5033,7 @@
   },
   "2901" : {
     "pitch" : [ 0, 2, 4, 6, 8, 9, 11 ],
-    "name" : [ "Larian" ]
+    "name" : [ "Lydian Augmented", "Larian" ]
   },
   "2911" : {
     "pitch" : [ 0, 1, 2, 3, 4, 6, 8, 9, 11 ],
@@ -5097,7 +5097,7 @@
   },
   "2925" : {
     "pitch" : [ 0, 2, 3, 5, 6, 8, 9, 11 ],
-    "name" : [ "MajorDimin." ]
+    "name" : [ "Whole-Half", "W-H", "Diminished", "Dim Whole", "MajorDimin." ]
   },
   "1835" : {
     "pitch" : [ 0, 1, 3, 5, 8, 9, 10 ],
@@ -5197,7 +5197,7 @@
   },
   "1619" : {
     "pitch" : [ 0, 1, 4, 6, 9, 10 ],
-    "name" : [ "Monimic" ]
+    "name" : [ "Prometheus Neapolitan", "Monimic" ]
   },
   "2707" : {
     "pitch" : [ 0, 1, 4, 7, 9, 11 ],
@@ -5253,7 +5253,7 @@
   },
   "1621" : {
     "pitch" : [ 0, 2, 4, 6, 9, 10 ],
-    "name" : [ "Aeolathimic" ]
+    "name" : [ "Prometheus", "Mystic", "Aeolathimic" ]
   },
   "1863" : {
     "pitch" : [ 0, 1, 2, 6, 8, 9, 10 ],
@@ -5417,11 +5417,11 @@
   },
   "1645" : {
     "pitch" : [ 0, 2, 3, 5, 6, 9, 10 ],
-    "name" : [ "Katagian" ]
+    "name" : [ "Bayati Shuri", "Kartzigar", "Katagian" ]
   },
   "1403" : {
     "pitch" : [ 0, 1, 3, 4, 5, 6, 8, 10 ],
-    "name" : [ "Epinyllic" ]
+    "name" : [ "Spanish 8 Tone", "Epinyllic" ]
   },
   "1887" : {
     "pitch" : [ 0, 1, 2, 3, 4, 6, 8, 9, 10 ],
@@ -5429,7 +5429,7 @@
   },
   "2733" : {
     "pitch" : [ 0, 2, 3, 5, 7, 9, 11 ],
-    "name" : [ "Bocrian" ]
+    "name" : [ "Melodic Minor", "Jazz Minor", "Gauri Manohari", "Bocrian" ]
   },
   "2975" : {
     "pitch" : [ 0, 1, 2, 3, 4, 7, 8, 9, 11 ],
@@ -5453,7 +5453,7 @@
   },
   "2731" : {
     "pitch" : [ 0, 1, 3, 5, 7, 9, 11 ],
-    "name" : [ "Thydian" ]
+    "name" : [ "Neapolitan Major", "Kokilpriya", "Thydian" ]
   },
   "2973" : {
     "pitch" : [ 0, 2, 3, 4, 7, 8, 9, 11 ],
@@ -5481,7 +5481,7 @@
   },
   "2739" : {
     "pitch" : [ 0, 1, 4, 5, 7, 9, 11 ],
-    "name" : [ "Zanian" ]
+    "name" : [ "Suryakant", "Zanian" ]
   },
   "3821" : {
     "pitch" : [ 0, 2, 3, 5, 6, 7, 9, 10, 11 ],
@@ -5533,7 +5533,7 @@
   },
   "2745" : {
     "pitch" : [ 0, 3, 4, 5, 7, 9, 11 ],
-    "name" : [ "Dolian" ]
+    "name" : [ "Huzam", "Dolian" ]
   },
   "2987" : {
     "pitch" : [ 0, 1, 3, 5, 7, 8, 9, 11 ],
@@ -5577,7 +5577,7 @@
   },
   "2741" : {
     "pitch" : [ 0, 2, 4, 5, 7, 9, 11 ],
-    "name" : [ "Ionian" ]
+    "name" : [ "Major", "Ionian", "Rast", "Bilawal" ]
   },
   "2983" : {
     "pitch" : [ 0, 1, 2, 5, 7, 8, 9, 11 ],
@@ -5585,7 +5585,7 @@
   },
   "1651" : {
     "pitch" : [ 0, 1, 4, 5, 6, 9, 10 ],
-    "name" : [ "Mogian" ]
+    "name" : [ "Tsinganikos", "Mogian" ]
   },
   "1893" : {
     "pitch" : [ 0, 2, 5, 6, 8, 9, 10 ],
@@ -5597,7 +5597,7 @@
   },
   "2509" : {
     "pitch" : [ 0, 2, 3, 6, 7, 8, 11 ],
-    "name" : [ "Bogian" ]
+    "name" : [ "Gypsy Minor", "Hungarian Minor", "Nawa Athar", "Nihavent", "Bogian" ]
   },
   "3831" : {
     "pitch" : [ 0, 1, 2, 4, 5, 6, 7, 9, 10, 11 ],
@@ -5609,7 +5609,7 @@
   },
   "2507" : {
     "pitch" : [ 0, 1, 3, 6, 7, 8, 11 ],
-    "name" : [ "Ionyphian" ]
+    "name" : [ "Todi", "Ionyphian" ]
   },
   "2749" : {
     "pitch" : [ 0, 2, 3, 4, 5, 7, 9, 11 ],
@@ -5633,7 +5633,7 @@
   },
   "2989" : {
     "pitch" : [ 0, 2, 3, 5, 7, 8, 9, 11 ],
-    "name" : [ "Ionacryllic" ]
+    "name" : [ "Bebop Melodic Minor", "Ionacryllic" ]
   },
   "2747" : {
     "pitch" : [ 0, 1, 3, 4, 5, 7, 9, 11 ],
@@ -5649,7 +5649,7 @@
   },
   "2515" : {
     "pitch" : [ 0, 1, 4, 6, 7, 8, 11 ],
-    "name" : [ "Stylian" ]
+    "name" : [ "Pireaus", "Poorvi", "Stylian" ]
   },
   "2999" : {
     "pitch" : [ 0, 1, 2, 4, 5, 7, 8, 9, 11 ],
@@ -5665,7 +5665,7 @@
   },
   "2997" : {
     "pitch" : [ 0, 2, 4, 5, 7, 8, 9, 11 ],
-    "name" : [ "Ionoptyllic" ]
+    "name" : [ "Bebop Major", "Ionoptyllic" ]
   },
   "1423" : {
     "pitch" : [ 0, 1, 2, 3, 7, 8, 10 ],
@@ -5713,7 +5713,7 @@
   },
   "2517" : {
     "pitch" : [ 0, 2, 4, 6, 7, 8, 11 ],
-    "name" : [ "Ryphian" ]
+    "name" : [ "Lataangi", "Ryphian" ]
   },
   "1427" : {
     "pitch" : [ 0, 1, 4, 7, 8, 10 ],
@@ -5721,7 +5721,7 @@
   },
   "2771" : {
     "pitch" : [ 0, 1, 4, 6, 7, 9, 11 ],
-    "name" : [ "Garian" ]
+    "name" : [ "Marwa", "Garian" ]
   },
   "1681" : {
     "pitch" : [ 0, 4, 7, 9, 10 ],
@@ -5733,7 +5733,7 @@
   },
   "1437" : {
     "pitch" : [ 0, 2, 3, 4, 7, 8, 10 ],
-    "name" : [ "Aeolycrian" ]
+    "name" : [ "Saba", "Sabah", "Aeolycrian" ]
   },
   "3859" : {
     "pitch" : [ 0, 1, 4, 8, 9, 10, 11 ],
@@ -5753,11 +5753,11 @@
   },
   "1435" : {
     "pitch" : [ 0, 1, 3, 4, 7, 8, 10 ],
-    "name" : [ "Phronian" ]
+    "name" : [ "Huzam", "Phronian" ]
   },
   "2765" : {
     "pitch" : [ 0, 2, 3, 6, 7, 9, 11 ],
-    "name" : [ "Banian" ]
+    "name" : [ "Dharmaavati", "Banian" ]
   },
   "2523" : {
     "pitch" : [ 0, 1, 3, 4, 6, 7, 8, 11 ],
@@ -5817,7 +5817,7 @@
   },
   "1451" : {
     "pitch" : [ 0, 1, 3, 5, 7, 8, 10 ],
-    "name" : [ "Phrygian" ]
+    "name" : [ "Phrygian", "Kurd", "Usak", "Bhairavi", "Sikah", "Standard Pelog", "Pelog Average" ]
   },
   "1693" : {
     "pitch" : [ 0, 2, 3, 4, 7, 9, 10 ],
@@ -5909,7 +5909,7 @@
   },
   "2773" : {
     "pitch" : [ 0, 2, 4, 6, 7, 9, 11 ],
-    "name" : [ "Lydian" ]
+    "name" : [ "Lydian", "Kalyan" ]
   },
   "2531" : {
     "pitch" : [ 0, 1, 5, 6, 7, 8, 11 ],
