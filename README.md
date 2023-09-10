@@ -15,14 +15,14 @@ which represents every note as an offset from the primary.
   - `name` - human readable names, starting with the most popular
   - `abbr` - abbreviations, 1+
 
-## Scales (Modes)
+## Scales
 
 [scales.json](scales.json), 67 ones
 
 - dict key: unique scale id
 - dict value:
   - `pitch` - notes in the scale, `[0..11]`
-  - `name` - human readable names, starting with the most popular
+  - `name` - human-readable names, starting with the most popular
 
 
 [1]: https://en.wikipedia.org/wiki/Pitch_class#Integer_notation
