@@ -19,6 +19,8 @@ which represents every note as an offset from the primary.
 
 [scales.json](scales.json), 67 ones
 
+[scales-ext.json](scales-ext.json), 1490 ones
+
 - dict key: unique scale id
 - dict value:
   - `pitch` - notes in the scale, `[0..11]`
