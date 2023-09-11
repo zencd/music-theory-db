@@ -129,7 +129,7 @@
     "name" : [ "7th Suspended 4th", "Dominant 7th Suspended 4th" ],
     "abbr" : [ "7sus4" ]
   },
-  "" : {
+  "0" : {
     "pitch" : [ 0 ],
     "name" : [ "P1" ],
     "abbr" : [ "P1" ]
