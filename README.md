@@ -7,7 +7,9 @@ which represents every note as an offset from the primary.
 
 ## Chords
 
-[chords.json](chords.json), 26 ones
+[chords.json](chords.json), 26 commonly used ones
+
+[chords-all.json](chords-all.json), 2056 ones
 
 ```
 {
@@ -21,7 +23,7 @@ which represents every note as an offset from the primary.
 
 ## Scales
 
-[scales.json](scales.json), 67 ones
+[scales.json](scales.json), 67 commonly used ones
 
 [scales-ext.json](scales-ext.json), 1490 ones
 
