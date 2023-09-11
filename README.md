@@ -7,7 +7,7 @@ which represents every note as an offset from the primary.
 
 ## Chords
 
-[chords.json](chords.json), 26 commonly used ones
+[chords.json](chords.json), 73 commonly used ones
 
 [chords-all.json](chords-all.json), 2056 ones
 
