@@ -1,4 +1,24 @@
 {
+  "7" : {
+    "pitch" : [ 0, 7 ],
+    "name" : [ "5th", "power chord" ],
+    "abbr" : [ "5" ]
+  },
+  "27" : {
+    "pitch" : [ 0, 2, 7 ],
+    "name" : [ "Suspended 2nd" ],
+    "abbr" : [ "sus2" ]
+  },
+  "36" : {
+    "pitch" : [ 0, 3, 6 ],
+    "name" : [ "Diminished" ],
+    "abbr" : [ "dim", "°" ]
+  },
+  "37" : {
+    "pitch" : [ 0, 3, 7 ],
+    "name" : [ "Minor" ],
+    "abbr" : [ "min", "m" ]
+  },
   "47" : {
     "pitch" : [ 0, 4, 7 ],
     "name" : [ "Major" ],
@@ -14,66 +34,6 @@
     "name" : [ "sus6" ],
     "abbr" : [ "sus6" ]
   },
-  "24689b" : {
-    "pitch" : [ 0, 2, 4, 6, 8, 9, 11 ],
-    "name" : [ "Maj13#11#5" ],
-    "abbr" : [ "Maj13#11#5" ]
-  },
-  "2468b" : {
-    "pitch" : [ 0, 2, 4, 6, 8, 11 ],
-    "name" : [ "Maj9#11#5" ],
-    "abbr" : [ "Maj9#11#5" ]
-  },
-  "13579a" : {
-    "pitch" : [ 0, 1, 3, 5, 7, 9, 10 ],
-    "name" : [ "m13b9" ],
-    "abbr" : [ "m13b9" ]
-  },
-  "23579a" : {
-    "pitch" : [ 0, 2, 3, 5, 7, 9, 10 ],
-    "name" : [ "m13" ],
-    "abbr" : [ "m13" ]
-  },
-  "23579b" : {
-    "pitch" : [ 0, 2, 3, 5, 7, 9, 11 ],
-    "name" : [ "mMaj13" ],
-    "abbr" : [ "mMaj13" ]
-  },
-  "479" : {
-    "pitch" : [ 0, 4, 7, 9 ],
-    "name" : [ "6th" ],
-    "abbr" : [ "6" ]
-  },
-  "136a" : {
-    "pitch" : [ 0, 1, 3, 6, 10 ],
-    "name" : [ "m7b9b5" ],
-    "abbr" : [ "m7b9b5" ]
-  },
-  "237b" : {
-    "pitch" : [ 0, 2, 3, 7, 11 ],
-    "name" : [ "mMaj9" ],
-    "abbr" : [ "mMaj9" ]
-  },
-  "237a" : {
-    "pitch" : [ 0, 2, 3, 7, 10 ],
-    "name" : [ "m9" ],
-    "abbr" : [ "m9" ]
-  },
-  "46a" : {
-    "pitch" : [ 0, 4, 6, 10 ],
-    "name" : [ "7th Flat 5", "Dominant 7th Flat 5", "7th b5" ],
-    "abbr" : [ "7b5" ]
-  },
-  "34a" : {
-    "pitch" : [ 0, 3, 4, 10 ],
-    "name" : [ "7#9(no5)", "Hendrix chord" ],
-    "abbr" : [ "7#9(no5)" ]
-  },
-  "134689" : {
-    "pitch" : [ 0, 1, 3, 4, 6, 8, 9 ],
-    "name" : [ "b5addb9add#9add13addb13" ],
-    "abbr" : [ "b5addb9add#9add13addb13" ]
-  },
   "57" : {
     "pitch" : [ 0, 5, 7 ],
     "name" : [ "Suspended 4th", "Suspended" ],
@@ -84,90 +44,45 @@
     "name" : [ "sus4sus6" ],
     "abbr" : [ "sus4sus6" ]
   },
-  "2457a" : {
-    "pitch" : [ 0, 2, 4, 5, 7, 10 ],
-    "name" : [ "11" ],
-    "abbr" : [ "11" ]
-  },
-  "24589b" : {
-    "pitch" : [ 0, 2, 4, 5, 8, 9, 11 ],
-    "name" : [ "Maj13#5" ],
-    "abbr" : [ "Maj13#5" ]
-  },
-  "2457b" : {
-    "pitch" : [ 0, 2, 4, 5, 7, 11 ],
-    "name" : [ "Maj11" ],
-    "abbr" : [ "Maj11" ]
-  },
-  "3467b" : {
-    "pitch" : [ 0, 3, 4, 6, 7, 11 ],
-    "name" : [ "Maj7#11#9" ],
-    "abbr" : [ "Maj7#11#9" ]
-  },
-  "2356a" : {
-    "pitch" : [ 0, 2, 3, 5, 6, 10 ],
-    "name" : [ "m11b5" ],
-    "abbr" : [ "m11b5" ]
-  },
-  "13568a" : {
-    "pitch" : [ 0, 1, 3, 5, 6, 8, 10 ],
-    "name" : [ "m11b13b9b5" ],
-    "abbr" : [ "m11b13b9b5" ]
-  },
-  "47a2" : {
-    "pitch" : [ 0, 4, 7, 10, 14 ],
-    "name" : [ "9th" ],
-    "abbr" : [ "9" ]
-  },
-  "23679a" : {
-    "pitch" : [ 0, 2, 3, 6, 7, 9, 10 ],
-    "name" : [ "m13#11" ],
-    "abbr" : [ "m13#11" ]
-  },
-  "2479" : {
-    "pitch" : [ 0, 2, 4, 7, 9 ],
-    "name" : [ "69" ],
-    "abbr" : [ "69" ]
-  },
-  "1356a" : {
-    "pitch" : [ 0, 1, 3, 5, 6, 10 ],
-    "name" : [ "m11b9b5" ],
-    "abbr" : [ "m11b9b5" ]
-  },
-  "23578b" : {
-    "pitch" : [ 0, 2, 3, 5, 7, 8, 11 ],
-    "name" : [ "mMaj11b13" ],
-    "abbr" : [ "mMaj11b13" ]
-  },
-  "47b25" : {
-    "pitch" : [ 0, 4, 7, 11, 14, 17 ],
-    "name" : [ "Major 11th" ],
-    "abbr" : [ "maj11", "M11" ]
-  },
-  "23578a" : {
-    "pitch" : [ 0, 2, 3, 5, 7, 8, 10 ],
-    "name" : [ "m11b13" ],
-    "abbr" : [ "m11b13" ]
+  "34a" : {
+    "pitch" : [ 0, 3, 4, 10 ],
+    "name" : [ "7#9(no5)", "Hendrix chord" ],
+    "abbr" : [ "7#9(no5)" ]
   },
   "369" : {
     "pitch" : [ 0, 3, 6, 9 ],
     "name" : [ "Diminished 7th" ],
     "abbr" : [ "dim7" ]
   },
-  "7" : {
-    "pitch" : [ 0, 7 ],
-    "name" : [ "5th", "power chord" ],
-    "abbr" : [ "5" ]
+  "36a" : {
+    "pitch" : [ 0, 3, 6, 10 ],
+    "name" : [ "Minor 7th Flat 5th", "Half Diminished Minor 7" ],
+    "abbr" : [ "m7b5" ]
   },
-  "137a" : {
-    "pitch" : [ 0, 1, 3, 7, 10 ],
-    "name" : [ "m7b9" ],
-    "abbr" : [ "m7b9" ]
+  "379" : {
+    "pitch" : [ 0, 3, 7, 9 ],
+    "name" : [ "Minor 6th", "Minor Major 6" ],
+    "abbr" : [ "min6", "m6", "min maj6" ]
   },
-  "347b" : {
-    "pitch" : [ 0, 3, 4, 7, 11 ],
-    "name" : [ "Maj7#9" ],
-    "abbr" : [ "Maj7#9" ]
+  "37a" : {
+    "pitch" : [ 0, 3, 7, 10 ],
+    "name" : [ "Minor 7th" ],
+    "abbr" : [ "m7", "min7" ]
+  },
+  "37b" : {
+    "pitch" : [ 0, 3, 7, 11 ],
+    "name" : [ "Minor Major 7th", "Minor Sharp 7", "Minor #7" ],
+    "abbr" : [ "minmaj7", "mmaj7", "mmaj7", "mM7" ]
+  },
+  "46a" : {
+    "pitch" : [ 0, 4, 6, 10 ],
+    "name" : [ "7th Flat 5", "Dominant 7th Flat 5", "7th b5" ],
+    "abbr" : [ "7b5" ]
+  },
+  "479" : {
+    "pitch" : [ 0, 4, 7, 9 ],
+    "name" : [ "6th" ],
+    "abbr" : [ "6" ]
   },
   "47a" : {
     "pitch" : [ 0, 4, 7, 10 ],
@@ -179,35 +94,115 @@
     "name" : [ "Major 7th" ],
     "abbr" : [ "maj7", "M7" ]
   },
-  "24679a" : {
-    "pitch" : [ 0, 2, 4, 6, 7, 9, 10 ],
-    "name" : [ "13#11" ],
-    "abbr" : [ "13#11" ]
+  "48a" : {
+    "pitch" : [ 0, 4, 8, 10 ],
+    "name" : [ "7th Sharp 5", "Dominant 7th #5" ],
+    "abbr" : [ "7#5" ]
+  },
+  "57a" : {
+    "pitch" : [ 0, 5, 7, 10 ],
+    "name" : [ "7th Suspended 4th", "Dominant 7th Suspended 4th" ],
+    "abbr" : [ "7sus4" ]
+  },
+  "136a" : {
+    "pitch" : [ 0, 1, 3, 6, 10 ],
+    "name" : [ "m7b9b5" ],
+    "abbr" : [ "m7b9b5" ]
+  },
+  "137a" : {
+    "pitch" : [ 0, 1, 3, 7, 10 ],
+    "name" : [ "m7b9" ],
+    "abbr" : [ "m7b9" ]
+  },
+  "146a" : {
+    "pitch" : [ 0, 1, 4, 6, 10 ],
+    "name" : [ "7b9b5" ],
+    "abbr" : [ "7b9b5" ]
+  },
+  "147a" : {
+    "pitch" : [ 0, 1, 4, 7, 10 ],
+    "name" : [ "7b9" ],
+    "abbr" : [ "7b9" ]
+  },
+  "236a" : {
+    "pitch" : [ 0, 2, 3, 6, 10 ],
+    "name" : [ "m9b5" ],
+    "abbr" : [ "m9b5" ]
+  },
+  "237a" : {
+    "pitch" : [ 0, 2, 3, 7, 10 ],
+    "name" : [ "m9" ],
+    "abbr" : [ "m9" ]
+  },
+  "237b" : {
+    "pitch" : [ 0, 2, 3, 7, 11 ],
+    "name" : [ "mMaj9" ],
+    "abbr" : [ "mMaj9" ]
+  },
+  "2479" : {
+    "pitch" : [ 0, 2, 4, 7, 9 ],
+    "name" : [ "69" ],
+    "abbr" : [ "69" ]
+  },
+  "247a" : {
+    "pitch" : [ 0, 2, 4, 7, 10 ],
+    "name" : [ "9" ],
+    "abbr" : [ "9" ]
+  },
+  "247b" : {
+    "pitch" : [ 0, 2, 4, 7, 11 ],
+    "name" : [ "Maj9" ],
+    "abbr" : [ "Maj9" ]
+  },
+  "248b" : {
+    "pitch" : [ 0, 2, 4, 8, 11 ],
+    "name" : [ "Maj9#5" ],
+    "abbr" : [ "Maj9#5" ]
+  },
+  "347b" : {
+    "pitch" : [ 0, 3, 4, 7, 11 ],
+    "name" : [ "Maj7#9" ],
+    "abbr" : [ "Maj7#9" ]
+  },
+  "37a2" : {
+    "pitch" : [ 0, 3, 7, 10, 14 ],
+    "name" : [ "Minor 9th" ],
+    "abbr" : [ "m9" ]
+  },
+  "37b2" : {
+    "pitch" : [ 0, 3, 7, 11, 14 ],
+    "name" : [ "Minor Major 9th" ],
+    "abbr" : [ "minmaj9", "mM9", "min(maj9)", "m(maj9)" ]
   },
   "4792" : {
     "pitch" : [ 0, 4, 7, 9, 14 ],
     "name" : [ "6th Add 9", "6th Add 9th", "6th 9" ],
     "abbr" : [ "6add9", "6/9" ]
   },
-  "24679b" : {
-    "pitch" : [ 0, 2, 4, 6, 7, 9, 11 ],
-    "name" : [ "Maj13#11" ],
-    "abbr" : [ "Maj13#11" ]
+  "47a2" : {
+    "pitch" : [ 0, 4, 7, 10, 14 ],
+    "name" : [ "9th" ],
+    "abbr" : [ "9" ]
   },
-  "2458b" : {
-    "pitch" : [ 0, 2, 4, 5, 8, 11 ],
-    "name" : [ "Maj11#5" ],
-    "abbr" : [ "Maj11#5" ]
+  "47b2" : {
+    "pitch" : [ 0, 4, 7, 11, 14 ],
+    "name" : [ "Major 9th" ],
+    "abbr" : [ "maj9" ]
   },
-  "27" : {
-    "pitch" : [ 0, 2, 7 ],
-    "name" : [ "Suspended 2nd" ],
-    "abbr" : [ "sus2" ]
+  "13469" : {
+    "pitch" : [ 0, 1, 3, 4, 6, 9 ],
+    "name" : [ "b5addb9add#9add13" ],
+    "abbr" : [ "b5addb9add#9add13" ]
   },
-  "24578a" : {
-    "pitch" : [ 0, 2, 4, 5, 7, 8, 10 ],
-    "name" : [ "11b13" ],
-    "abbr" : [ "11b13" ]
+  "1356a" : {
+    "pitch" : [ 0, 1, 3, 5, 6, 10 ],
+    "name" : [ "m11b9b5" ],
+    "abbr" : [ "m11b9b5" ]
+  },
+  "2356a" : {
+    "pitch" : [ 0, 2, 3, 5, 6, 10 ],
+    "name" : [ "m11b5" ],
+    "abbr" : [ "m11b5" ]
   },
   "2357a" : {
     "pitch" : [ 0, 2, 3, 5, 7, 10 ],
@@ -219,75 +214,120 @@
     "name" : [ "mMaj11" ],
     "abbr" : [ "mMaj11" ]
   },
+  "2457a" : {
+    "pitch" : [ 0, 2, 4, 5, 7, 10 ],
+    "name" : [ "11" ],
+    "abbr" : [ "11" ]
+  },
+  "2457b" : {
+    "pitch" : [ 0, 2, 4, 5, 7, 11 ],
+    "name" : [ "Maj11" ],
+    "abbr" : [ "Maj11" ]
+  },
+  "2458b" : {
+    "pitch" : [ 0, 2, 4, 5, 8, 11 ],
+    "name" : [ "Maj11#5" ],
+    "abbr" : [ "Maj11#5" ]
+  },
+  "2467b" : {
+    "pitch" : [ 0, 2, 4, 6, 7, 11 ],
+    "name" : [ "Maj9#11" ],
+    "abbr" : [ "Maj9#11" ]
+  },
+  "2468b" : {
+    "pitch" : [ 0, 2, 4, 6, 8, 11 ],
+    "name" : [ "Maj9#11#5" ],
+    "abbr" : [ "Maj9#11#5" ]
+  },
+  "3467b" : {
+    "pitch" : [ 0, 3, 4, 6, 7, 11 ],
+    "name" : [ "Maj7#11#9" ],
+    "abbr" : [ "Maj7#11#9" ]
+  },
+  "37a25" : {
+    "pitch" : [ 0, 3, 7, 10, 14, 17 ],
+    "name" : [ "Minor 11th" ],
+    "abbr" : [ "m11", "min11" ]
+  },
+  "47a25" : {
+    "pitch" : [ 0, 4, 7, 10, 14, 17 ],
+    "name" : [ "11th" ],
+    "abbr" : [ "11" ]
+  },
+  "47b25" : {
+    "pitch" : [ 0, 4, 7, 11, 14, 17 ],
+    "name" : [ "Major 11th" ],
+    "abbr" : [ "maj11", "M11" ]
+  },
+  "134689" : {
+    "pitch" : [ 0, 1, 3, 4, 6, 8, 9 ],
+    "name" : [ "b5addb9add#9add13addb13" ],
+    "abbr" : [ "b5addb9add#9add13addb13" ]
+  },
   "13468a" : {
     "pitch" : [ 0, 1, 3, 4, 6, 8, 10 ],
     "name" : [ "7b9b5add#9addb13" ],
     "abbr" : [ "7b9b5add#9addb13" ]
   },
-  "47b2" : {
-    "pitch" : [ 0, 4, 7, 11, 14 ],
-    "name" : [ "Major 9th" ],
-    "abbr" : [ "maj9" ]
-  },
-  "37a2" : {
-    "pitch" : [ 0, 3, 7, 10, 14 ],
-    "name" : [ "Minor 9th" ],
-    "abbr" : [ "m9" ]
+  "13568a" : {
+    "pitch" : [ 0, 1, 3, 5, 6, 8, 10 ],
+    "name" : [ "m11b13b9b5" ],
+    "abbr" : [ "m11b13b9b5" ]
   },
   "13569a" : {
     "pitch" : [ 0, 1, 3, 5, 6, 9, 10 ],
     "name" : [ "m13b9b5" ],
     "abbr" : [ "m13b9b5" ]
   },
-  "379" : {
-    "pitch" : [ 0, 3, 7, 9 ],
-    "name" : [ "Minor 6th", "Minor Major 6" ],
-    "abbr" : [ "min6", "m6", "min maj6" ]
+  "13578a" : {
+    "pitch" : [ 0, 1, 3, 5, 7, 8, 10 ],
+    "name" : [ "m11b13b9" ],
+    "abbr" : [ "m11b13b9" ]
   },
-  "34679b" : {
-    "pitch" : [ 0, 3, 4, 6, 7, 9, 11 ],
-    "name" : [ "Maj13#11#9" ],
-    "abbr" : [ "Maj13#11#9" ]
+  "13579a" : {
+    "pitch" : [ 0, 1, 3, 5, 7, 9, 10 ],
+    "name" : [ "m13b9" ],
+    "abbr" : [ "m13b9" ]
   },
-  "146a" : {
-    "pitch" : [ 0, 1, 4, 6, 10 ],
-    "name" : [ "7b9b5" ],
-    "abbr" : [ "7b9b5" ]
+  "14578a" : {
+    "pitch" : [ 0, 1, 4, 5, 7, 8, 10 ],
+    "name" : [ "11b13b9" ],
+    "abbr" : [ "11b13b9" ]
   },
-  "247b" : {
-    "pitch" : [ 0, 2, 4, 7, 11 ],
-    "name" : [ "Maj9" ],
-    "abbr" : [ "Maj9" ]
+  "23568a" : {
+    "pitch" : [ 0, 2, 3, 5, 6, 8, 10 ],
+    "name" : [ "m11b13b5" ],
+    "abbr" : [ "m11b13b5" ]
   },
-  "247a" : {
-    "pitch" : [ 0, 2, 4, 7, 10 ],
-    "name" : [ "9" ],
-    "abbr" : [ "9" ]
+  "23578a" : {
+    "pitch" : [ 0, 2, 3, 5, 7, 8, 10 ],
+    "name" : [ "m11b13" ],
+    "abbr" : [ "m11b13" ]
   },
-  "48a" : {
-    "pitch" : [ 0, 4, 8, 10 ],
-    "name" : [ "7th Sharp 5", "Dominant 7th #5" ],
-    "abbr" : [ "7#5" ]
+  "23578b" : {
+    "pitch" : [ 0, 2, 3, 5, 7, 8, 11 ],
+    "name" : [ "mMaj11b13" ],
+    "abbr" : [ "mMaj11b13" ]
   },
-  "36a" : {
-    "pitch" : [ 0, 3, 6, 10 ],
-    "name" : [ "Minor 7th Flat 5th", "Half Diminished Minor 7" ],
-    "abbr" : [ "m7b5" ]
+  "23579a" : {
+    "pitch" : [ 0, 2, 3, 5, 7, 9, 10 ],
+    "name" : [ "m13" ],
+    "abbr" : [ "m13" ]
   },
-  "13469" : {
-    "pitch" : [ 0, 1, 3, 4, 6, 9 ],
-    "name" : [ "b5addb9add#9add13" ],
-    "abbr" : [ "b5addb9add#9add13" ]
+  "23579b" : {
+    "pitch" : [ 0, 2, 3, 5, 7, 9, 11 ],
+    "name" : [ "mMaj13" ],
+    "abbr" : [ "mMaj13" ]
   },
-  "36" : {
-    "pitch" : [ 0, 3, 6 ],
-    "name" : [ "Diminished" ],
-    "abbr" : [ "dim", "°" ]
+  "23679a" : {
+    "pitch" : [ 0, 2, 3, 6, 7, 9, 10 ],
+    "name" : [ "m13#11" ],
+    "abbr" : [ "m13#11" ]
   },
-  "37" : {
-    "pitch" : [ 0, 3, 7 ],
-    "name" : [ "Minor" ],
-    "abbr" : [ "min", "m" ]
+  "24578a" : {
+    "pitch" : [ 0, 2, 4, 5, 7, 8, 10 ],
+    "name" : [ "11b13" ],
+    "abbr" : [ "11b13" ]
   },
   "24579a" : {
     "pitch" : [ 0, 2, 4, 5, 7, 9, 10 ],
@@ -299,69 +339,29 @@
     "name" : [ "Maj13" ],
     "abbr" : [ "Maj13" ]
   },
-  "2467b" : {
-    "pitch" : [ 0, 2, 4, 6, 7, 11 ],
-    "name" : [ "Maj9#11" ],
-    "abbr" : [ "Maj9#11" ]
+  "24589b" : {
+    "pitch" : [ 0, 2, 4, 5, 8, 9, 11 ],
+    "name" : [ "Maj13#5" ],
+    "abbr" : [ "Maj13#5" ]
   },
-  "13578a" : {
-    "pitch" : [ 0, 1, 3, 5, 7, 8, 10 ],
-    "name" : [ "m11b13b9" ],
-    "abbr" : [ "m11b13b9" ]
+  "24679a" : {
+    "pitch" : [ 0, 2, 4, 6, 7, 9, 10 ],
+    "name" : [ "13#11" ],
+    "abbr" : [ "13#11" ]
   },
-  "37a25" : {
-    "pitch" : [ 0, 3, 7, 10, 14, 17 ],
-    "name" : [ "Minor 11th" ],
-    "abbr" : [ "m11", "min11" ]
+  "24679b" : {
+    "pitch" : [ 0, 2, 4, 6, 7, 9, 11 ],
+    "name" : [ "Maj13#11" ],
+    "abbr" : [ "Maj13#11" ]
   },
-  "37b2" : {
-    "pitch" : [ 0, 3, 7, 11, 14 ],
-    "name" : [ "Minor Major 9th" ],
-    "abbr" : [ "minmaj9", "mM9", "min(maj9)", "m(maj9)" ]
+  "24689b" : {
+    "pitch" : [ 0, 2, 4, 6, 8, 9, 11 ],
+    "name" : [ "Maj13#11#5" ],
+    "abbr" : [ "Maj13#11#5" ]
   },
-  "23568a" : {
-    "pitch" : [ 0, 2, 3, 5, 6, 8, 10 ],
-    "name" : [ "m11b13b5" ],
-    "abbr" : [ "m11b13b5" ]
-  },
-  "47a25" : {
-    "pitch" : [ 0, 4, 7, 10, 14, 17 ],
-    "name" : [ "11th" ],
-    "abbr" : [ "11" ]
-  },
-  "147a" : {
-    "pitch" : [ 0, 1, 4, 7, 10 ],
-    "name" : [ "7b9" ],
-    "abbr" : [ "7b9" ]
-  },
-  "248b" : {
-    "pitch" : [ 0, 2, 4, 8, 11 ],
-    "name" : [ "Maj9#5" ],
-    "abbr" : [ "Maj9#5" ]
-  },
-  "236a" : {
-    "pitch" : [ 0, 2, 3, 6, 10 ],
-    "name" : [ "m9b5" ],
-    "abbr" : [ "m9b5" ]
-  },
-  "37a" : {
-    "pitch" : [ 0, 3, 7, 10 ],
-    "name" : [ "Minor 7th" ],
-    "abbr" : [ "m7", "min7" ]
-  },
-  "14578a" : {
-    "pitch" : [ 0, 1, 4, 5, 7, 8, 10 ],
-    "name" : [ "11b13b9" ],
-    "abbr" : [ "11b13b9" ]
-  },
-  "37b" : {
-    "pitch" : [ 0, 3, 7, 11 ],
-    "name" : [ "Minor Major 7th", "Minor Sharp 7", "Minor #7" ],
-    "abbr" : [ "minmaj7", "mmaj7", "mmaj7", "mM7" ]
-  },
-  "57a" : {
-    "pitch" : [ 0, 5, 7, 10 ],
-    "name" : [ "7th Suspended 4th", "Dominant 7th Suspended 4th" ],
-    "abbr" : [ "7sus4" ]
+  "34679b" : {
+    "pitch" : [ 0, 3, 4, 6, 7, 9, 11 ],
+    "name" : [ "Maj13#11#9" ],
+    "abbr" : [ "Maj13#11#9" ]
   }
 }
